@@ -1,5 +1,6 @@
-Talk about desigining Embedly Cards
-http://embed.ly/cards
+API intro talk for Embedly
 
-Initially given at Hacks/Hackers
-http://www.meetup.com/hackshackersboston/events/169392152/
+Describes the value of embeds and the Embedly APIs for richer content.
+
+Initially given at [Media Hack Day](http://mediahackday.com)
+

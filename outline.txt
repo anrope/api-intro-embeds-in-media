@@ -1,0 +1,72 @@
+embedly media tools
+
+-intro
+    - hi im andy, engineer at embedly
+    - how talk is relevant to event
+    - going to brush over:
+        - embed/extract
+        - display
+        - analytics
+        - please come find me to talk more about these
+    - going to focus on:
+        - playerjs
+        - cards
+        - fast, easy to use for event
+
+- core products embed, extract, display
+- embed
+    - title
+    - description
+    - iframe for rich embeds video/audio/slides/etc.
+    - youtube, vimeo, vine, instagram, spotify, soundcloud, slideshare, kickstarter
+    - video embeds from youtube, vimeo, vine, instagram
+    - audio embeds from spotify, soundcloud
+    - more embeds from slideshare, kickstarter, 300+ more sites
+- extract
+    - extract is embed on steroids
+    - on top of embed's features, extract adds:
+        - keyword and entity extraction
+        - multiple images
+        - dominant colors from images
+        - related articles
+    - give api key for hackathon, come find me
+- display
+    - resize images for different devices
+    - fill images to a uniform size
+    - serve image as https for secure sites
+
+- analytics
+    - see how many people are loading, mousing over, and actually playing your videos
+    - learn how video presentation on a page can affect engagement
+    - measure attention minutes, and see what parts of a video people like most
+    - learn what parts of your content people like most, guide future content
+
+- playerjs
+    - one uniform api for common video interactions across providers
+        - play, pause, seek, volume, duration, progress, etc.
+    - playerjs demos
+        - scroll-to-play
+            - facebook, instagram made popular, really grabs attention
+            - multiple videos, story telling
+        - captions
+            - trigger events on page at different times in video
+            - create cool, immersive page experience centered around a video, audio
+        - soundboard
+            - play from and to specific points in video, audio
+    - playerjs example code
+        - go through soundboard example code
+    - really cool stuff, would love to see someone use it, glad to help
+
+- cards
+    - super super easy to use
+    - show basic example
+    - mention javascript creation
+    - talk about customizations
+    - demo customizations
+    - if your project involves links, cards can really help your ux
+
+- we talked about embed, extract, and display, then dug in to playerjs and cards
+- if your project deals with video or audio, playerjs can help you create a more immersive experience
+- if your project deals with links, cards can 
+
+- going to be floating around hackathon, glad to help with any embedly questions or technical
